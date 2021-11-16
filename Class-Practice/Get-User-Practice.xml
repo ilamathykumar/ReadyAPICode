@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="e81cf0b9-6cc4-44f7-97a5-79bb49df02ff" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="Get User Practice" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="e81cf0b9-6cc4-44f7-97a5-79bb49df02fffileName">Get-User-Practice</con:setting>
+  </con:settings>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testCase>

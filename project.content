@@ -1,0 +1,6 @@
+GetUser\%2Fapi%2Fv1%2Fuser%2F.xml
+Regression-Test-Suite\Get-user---positive-Test-Case.xml
+Regression-Test-Suite\Update-user.xml
+Regression-Test-Suite\Create-User-Test.xml
+Class-Practice\Create-User-Practice.xml
+Class-Practice\Get-User-Practice.xml

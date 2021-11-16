@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="5343050c-cfd1-4caf-be96-169d2ae7507f" name="Class Practice" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="5343050c-cfd1-4caf-be96-169d2ae7507ffileName">Class-Practice</con:setting>
+  </con:settings>
+  <con:runType>SEQUENTIAL</con:runType>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testSuite>
